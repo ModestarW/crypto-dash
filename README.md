@@ -1,6 +1,6 @@
 # 💹 CryptoDash – Cryptocurrency Dashboard
 
-A React + Vite application that fetches live cryptocurrency data from the **CoinGecko API** and displays it in a clean, interactive dashboard. Built as part of a Brad Traversy React course, but customized with my own UI improvements.
+A React + Vite application that fetches live cryptocurrency data from the **CoinGecko API** and displays it in a clean, interactive dashboard. This App was built as part of Brad Traversy's Modern React course.
 
 The app features **React Router** for navigation, **Chart.js** for data visualization, and multiple tools for filtering and sorting cryptocurrency data.
 
@@ -41,6 +41,6 @@ The app features **React Router** for navigation, **Chart.js** for data visualiz
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/cryptodash.git
-cd cryptodash
+git clone https://github.com/your-username/crypto-dash.git
+cd crypto-dash
 ```
